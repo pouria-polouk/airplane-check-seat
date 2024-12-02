@@ -7,7 +7,7 @@ Why the project is useful?
 It streamlines the inspection and reporting process for airplane seat conditions, enabling faster and more accurate management. The graphical interface and standardized data storage (Excel files) improve productivity for technical and service teams in airline companies.
 
 How users can get started with the project?
-Clone or download the project from the GitHub repository.
+Clone or download the project from the GitHub repository (https://github.com/pouria-polouk/airplane-check-seat).
 Ensure Python and required modules (flet, pandas, numpy, openpyxl) are installed.
 Run the program, load your Excel file, and start managing seat data.
 
